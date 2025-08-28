@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CarteDeVisite</string>
+    <string name="nomComplet">KING NAEJ</string>
+    <string name="titre"><![CDATA[Visionnaire & Créateur]]></string>
+    <string name="numeroTelephone">+225 01 23 45 67</string>
+    <string name="lien">www.kingnaej.ci</string>
+    <string name="email">kingnaej@ci.com</string>
 </resources>

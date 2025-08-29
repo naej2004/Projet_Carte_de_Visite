@@ -132,7 +132,7 @@ fun InfoRow(icon: androidx.compose.ui.graphics.vector.ImageVector, text: String,
     }
 }
 
-@Preview()
+@Preview(showBackground = true, showSystemUi = true)
 @Composable
 fun CarteVisitePreview(){
     CarteVisite(
